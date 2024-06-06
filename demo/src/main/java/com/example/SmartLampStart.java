@@ -31,7 +31,7 @@ public class SmartLampStart {
         executeCommands(remoteControl,List.of(SmartLampOff));
     }
 
-    private static void executeCommands(RemoteControl remoteControl, List<ICommand> commands) {
+    public static void executeCommands(RemoteControl remoteControl, List<ICommand> commands) {
         remoteControl.setCommands(commands);
         remoteControl.pressAllButtons();
     }
