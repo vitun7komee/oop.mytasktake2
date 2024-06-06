@@ -1,0 +1,11 @@
+com\example\SmartLampSetMode.class
+com\example\ICommand.class
+com\example\SmartLampStart.class
+com\example\RemoteControl.class
+com\example\SmartLampMode.class
+com\example\App.class
+com\example\SmartLamp.class
+com\example\SmartLampIncreaseBrightness.class
+com\example\SmartLampOff.class
+com\example\SmartLampOn.class
+com\example\SmartLampDecreaseBrightness.class
